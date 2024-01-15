@@ -28,16 +28,17 @@
 <br />
 
 <!--Github stats Table--> 
-<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
-<div style="width:100%; display:flex; justify-content:center; flex-direction: column; align-items: center">
-    <h3 ><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
-    <p >
-    <a href="https://github.com/Bkyaro/TheEndIsNeverTheEndIsNeverTheEnd">
-        <img  src="https://github-readme-stats.vercel.app/api/pin/?username=Bkyaro&repo=TheEndIsNeverTheEndIsNeverTheEnd&theme=nightowl" alt="Latest Project" />
-    </a>
-    </p>
-</div>
 <table width="100%">
+  <tr>
+    <td colspan="2" width="50%">
+      <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
+      <p align="center">
+        <a href="https://github.com/Bkyaro/TheEndIsNeverTheEndIsNeverTheEnd">
+            <img  src="https://github-readme-stats.vercel.app/api/pin/?username=Bkyaro&repo=TheEndIsNeverTheEndIsNeverTheEnd&theme=nightowl" alt="Latest Project" />
+        </a>
+      </p>
+    </td>
+  </tr>
   <tr>
     <td width="50%">
       <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
